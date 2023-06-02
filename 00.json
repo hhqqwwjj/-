@@ -51,7 +51,7 @@
 
 {"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
 
-{"key":"看看剧","name":"🪁看看┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
+{"key":"看看剧","name":"🤿看看┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
 {"key":"热播","name":"🌭热播┃之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/热播之家.json","jar":"./jar/xyq.jar"},
 
