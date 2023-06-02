@@ -302,7 +302,6 @@
 //解析
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"推荐","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
 {"name":"4K","type":1,"url":"http://json.key521.cn/api/?key=545dcd754879dc02a6087dd1d47e38d0&url="},
 
