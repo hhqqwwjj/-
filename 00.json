@@ -33,7 +33,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"🖖豆瓣推荐┃接口通用┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"🖖豆瓣┃适配影视仓·影视·Easybox·宝盒·俊版┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
@@ -57,6 +57,8 @@
 
 {"key":"爱迪","name":"💡爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
+{"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/来看点播.json"},
+
 {"key":"快看资源","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
@@ -68,8 +70,6 @@
 
 {"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/",
 "categories": ["国产剧","欧美剧","韩国剧",]},
-
-{"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/来看点播.json"},
 
 
 
