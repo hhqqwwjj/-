@@ -71,6 +71,8 @@
 
 {"key":"麻衣呀呼","name":"麻衣┃呀呼","type":3,"api":"csp_XBPQ","ext":"./XBPQ/麻衣呀呼.json"},
 
+{"key":"moli","name":"魔力┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
+
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
 {"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
