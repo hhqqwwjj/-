@@ -1,0 +1,7 @@
+{
+                "站名": "麻衣呀呼", 
+                "嗅探词": ".mp4#m3u8", 
+                "主页url": "https://www.mayiyahu.com/", 
+                "分类": "电影$a#电视剧$b#动漫$c#综艺$d", 
+                "分类url": "https://www.mayiyahu.com/s/id-{cateId}/area/{area}/class/{class}/year/{year}.html"
+}
