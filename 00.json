@@ -67,6 +67,8 @@
 
 {"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
 
+{"key":"熊熊","name":"🐻笨蛋┃熊熊","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
+
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
 {"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
