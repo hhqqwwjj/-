@@ -51,13 +51,21 @@
 
 {"key":"yinfans","name":"🎻范丝┃精选","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"ext":"./XPath/音范丝.json"},
 
-{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
+{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
-{"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
+{"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
 
-{"key":"热播","name":"🌭热播┃之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/热播之家.json"},
+{"key":"热播","name":"🌭热播┃之家","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热播之家.json"},
 
-{"key":"速度","name":"🌭速度┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/速度.json"},
+{"key":"速度","name":"🚅速度┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速度.json"},
+
+{"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
+
+{"key":"子子","name":"👼子子┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/子子.json"},
+
+{"key":"爱看","name":"💘爱看┃影院","type":3,"api":"csp_XBPQ","ext":"./XBPQ/爱看影院.json"},
+
+{"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
 
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
@@ -67,13 +75,9 @@
 
 {"key":"爱迪","name":"💡爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/来看点播.json"},
-
-{"key": "轻简","name": "简简┃采集","type": 1,"api": "http://1.ahailove.cn:23455/cj/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","电视剧","综艺","动漫"]},
+{"key":"轻简","name":"✂️简简┃采集","type": 1,"api": "http://1.ahailove.cn:23455/cj/api.php/provide/vod/","categories": ["电影","电视剧","综艺","动漫"]},
 
 {"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
-
-{"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
 
 {"key":"飞云","name":"🌤️飞云┃资源","type":3,"api": "csp_AppYsV2","ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
 
@@ -139,7 +143,7 @@
 
 //精选
 
-{"key":"布雷","name":"⚡布雷┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
+{"key":"布雷","name":"⚡布雷┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy03.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
 {"key":"2bt","name":"✌BTT┃影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -196,8 +200,6 @@
 {"key":"大米","name":"🤡大米┃星球","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/大米.json"},
 
 {"key":"vidh","name":"🤡Vidh┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
-
-{"key":"爱看影院","name":"🤡爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱看影院.json"},
 
 {"key":"wz","name":"🤡王者┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/wz.json"},
 
