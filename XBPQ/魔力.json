@@ -1,7 +1,0 @@
-{
-                "站名": "moli", 
-                "嗅探词": ".mp4#m3u8", 
-                "主页url": "https://hdmoli.com/", 
-                "分类": "电影$1#电视剧$2#动漫$41", 
-                "分类url": "https://hdmoli.com/search.php?searchtype=5&tid={cateId}&area={area}&year={year}"
-}
