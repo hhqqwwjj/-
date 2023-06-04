@@ -71,7 +71,7 @@
 
 {"key":"速度","name":"🚅速度┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速度.json"},
 
-{"key":"大豆","name":"大豆┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/大豆.json"},
+{"key":"大豆1","name":"大豆┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/大豆.json"},
 
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
