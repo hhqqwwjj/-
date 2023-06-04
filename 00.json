@@ -323,17 +323,19 @@
 
 {"name":"嗅探6","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 
-{"name":"嗅探7","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探7","type":0,"url":"https://jx.xmflv.com/?url="},
 
-{"name":"嗅探8","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探8","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"嗅探9","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探9","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"嗅探10","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探10","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"嗅探11","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探11","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"嗅探12","type":0,"url":"https://jx.playerjy.com/?ads=0&url="}
+{"name":"嗅探12","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+
+{"name":"嗅探13","type":0,"url":"https://jx.playerjy.com/?ads=0&url="}
 
 ],
 
