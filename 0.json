@@ -335,7 +335,9 @@
 
 {"name":"嗅探10","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"嗅探11","type":0,"url":"https://jx.playerjy.com/?ads=0&url="}
+{"name":"嗅探11","type":0,"url":"https://jx.playerjy.com/?ads=0&url="},
+
+{"name":"嗅探12","type":0,"url":"https://vip.hfyj.ml/player/?url="}
 
 ],
 
