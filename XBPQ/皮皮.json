@@ -1,7 +1,0 @@
-{
-        "站名": "pipi",
-        "嗅探词": ".mp4#.m3u8",
-        "主页url": "https://www.pipiya.cc/",
-        "分类": "电影$20#国产剧$26#日韩剧$22#美剧$21#动漫$25",
-        "分类url": "https://www.pipiya.cc/vodshow/{cateId}/area/{area}/lang/{lang}/year/{year}.html"
-
