@@ -189,6 +189,8 @@
 
 
 //XBPQ
+{"key":"双十","name":"双十┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/双十.json"},
+
 {"key":"素白白","name":"⚪素白┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/素白白.json"},
 
 {"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},
