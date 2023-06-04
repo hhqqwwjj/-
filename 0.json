@@ -93,7 +93,7 @@
 {"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/",
 "categories": ["国产剧","欧美剧","韩国剧",]},
 
-{"key":"饭团1","name":"饭团┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/饭团.json"},
+{"key":"饭团1","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/饭团.json"},
 
 
 
