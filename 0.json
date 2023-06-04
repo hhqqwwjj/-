@@ -87,9 +87,9 @@
 
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
 
-{"key":"大豆","name":"😎大豆┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
+{"key":"大豆","name":"🦝大豆┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
 
-{"key":"皮皮鸭","name":"😎皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
+{"key":"皮皮鸭","name":"🦝皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
 {"key":"非凡","name":"🦉非凡┃资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/",
 "categories": ["国产剧","欧美剧","韩国剧",]},
@@ -176,7 +176,7 @@
 
 
 //XBPQ
-{"key":"酷客","name":"😎酷客┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/酷客.json"},
+{"key":"酷客","name":"🐿️酷客┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/酷客.json"},
 
 {"key":"双十","name":"🦁双十┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/双十.json"},
 
