@@ -71,7 +71,7 @@
 
 {"key":"速度","name":"🚅速度┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速度.json"},
 
-{"key":"大豆1","name":"大豆┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/大豆.json"},
+{"key":"新视觉","name":"👁️‍🗨️视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
@@ -173,8 +173,6 @@
 
 
 //js
-
-{"key":"新视觉","name":"😎视觉┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新视觉.js"},
 
 {"key":"饭团","name":"😎饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 
