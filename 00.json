@@ -79,8 +79,6 @@
 
 {"key":"爱迪","name":"💡爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key":"轻简","name":"✂️简简┃采集","type": 1,"api": "http://1.ahailove.cn:23455/cj/api.php/provide/vod/","categories": ["电影","电视剧","综艺","动漫"]},
-
 {"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {"key":"飞云","name":"🌤️飞云┃资源","type":3,"api": "csp_AppYsV2","ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
