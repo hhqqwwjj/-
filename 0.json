@@ -93,6 +93,7 @@
 {"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/",
 "categories": ["国产剧","欧美剧","韩国剧",]},
 
+{"key":"屁屁1","name":"皮皮┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/皮皮.json"},
 
 
 
