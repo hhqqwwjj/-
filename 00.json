@@ -35,7 +35,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"😭豆瓣推荐┃6.3更新┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"😭豆瓣推荐┃6.4更新┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
@@ -143,7 +143,7 @@
 
 //精选
 
-{"key":"布雷","name":"⚡布雷┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy03.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
+{"key":"布雷","name":"⚡布雷┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy04.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
 {"key":"2bt","name":"✌BTT┃影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
