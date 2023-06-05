@@ -87,8 +87,6 @@
 
 {"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
-{"key":"飞云","name":"🌤️飞云┃资源","type":3,"api": "csp_AppYsV2","ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
-
 {"key":"大豆","name":"🦝大豆┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
 
 {"key":"皮皮鸭","name":"🦝皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
