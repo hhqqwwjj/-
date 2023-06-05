@@ -27,7 +27,7 @@
 
 
 //提示
-"warningText":"💖小胡同学提醒：接口完全免费，切勿付费购买💖",
+"warningText":"💖小胡同学提醒：接口免费，每次打开记得长按主页刷新💖",
 
 
 
@@ -35,7 +35,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"🥰豆瓣推荐┃长按主页刷新┃6.6更新┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"🥰豆瓣推荐┃接口免费┃6.6更新┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
