@@ -9,6 +9,7 @@
 				"标题": "vod_name\":\"&&\"",
 				"副标题": "vod_version\":\"&&\"+vod_remarks\":\"&&\"",
 				"链接": "https://v.fnsp0.com/index.php/vod/detail/id/+od_id\":&&,+.html",
+				"分类": "综合$1",
 				"分类url": "https://v.fnsp0.com/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
 				"嗅探词":".mp4#.m3u8",
 				"搜索模式": "1",
@@ -20,6 +21,6 @@
 				"搜索图片": "data-original=\"&&\"",
 				"搜索副标题": "class=\"public-list-prb hide ft2\">&&</span",
 				"播放链接前缀": "https://v.fnsp0.com/",
-			   "跳转播放链接":"https://b.rzyl.site/player/analysis.php?v=+link_pre*url\":\"&&\"",
+			    "跳转播放链接":"https://b.rzyl.site/player/analysis.php?v=+link_pre*url\":\"&&\"",
 				"线路数组": "<a class=\"swiper-slide\"><i&&</a>"
 }
