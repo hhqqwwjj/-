@@ -53,6 +53,14 @@
 
 {"key":"yinfans","name":"🎻范丝┃精选","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"ext":"./XPath/音范丝.json"},
 
+{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
+
+{"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
+
+{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
+
+{"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+
 {"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
 {"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
@@ -63,23 +71,21 @@
 
 {"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
 
-{"key":"子子","name":"👼子子┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
+{"key":"热剧猫","name":"😽热剧┃猫猫","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热剧猫.json"},
 
 {"key":"爱看","name":"💘爱看┃影院","type":3,"api":"csp_XBPQ","ext":"./XBPQ/爱看影院.json"},
-
-{"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
 
 {"key":"熊熊","name":"🐻笨蛋┃熊熊","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
 
 {"key":"新视觉","name":"👁️‍🗨️视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
-{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
+{"key":"臭蛋蛋","name":"🥚蛋蛋┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/臭蛋蛋.json"},
 
-{"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
+{"key":"独播库","name":"🦄独播┃库库","type":3,"api":"csp_XBPQ","ext":"./XBPQ/独播库.json"},
 
-{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
+{"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
 
-{"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+{"key":"子子","name":"👼子子┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
 {"key":"轻简","name":"✂️简简┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
