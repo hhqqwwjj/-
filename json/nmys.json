@@ -52,7 +52,6 @@
       "dtUrlIdR": "/(S+).html",
       "dtUrlName": "/text()",
       "dtUrlNameR": "",
-      "playUrl": "https://v.cnmcom.com/{playUrl}.html",
       "playUa": "",
       "searchUrl": "https://v.cnmcom.com/index.php?m=vod-search&wd={wd}",
       "scVodNode": "//ul[@class='ulPicTxt clearfix']/li",
