@@ -34,16 +34,7 @@
 //数据接口
 
 "sites":[
-    {
-      "key": "公告",
-      "name": "公告",
-      "type": 3,
-      "api": "csp_Notice",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "6666666",
-      "jar":"./jar/fm.jar"
-    },
+
 {"key":"豆瓣","name":"♥️豆瓣推荐┃接口免费┃6.7更新┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
@@ -162,7 +153,6 @@
 
 {"key":"七夜","name":"🌞七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
-
 
 {"key":"agent","name":"🎠推送┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
