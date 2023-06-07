@@ -103,7 +103,7 @@
 
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
 
-{"key":"TVB","name":"TVB┃资源","type":1,"api":"csp_XBPQ","ext":"./XBPQ/tvb.json"},
+{"key":"TVB","name":"TVB┃资源","type":1,"api":"http://www.tvyb03.com/api.php/provide/vod/"},
 
 {"key":"非凡","name":"🕊️非凡┃资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/",
 "categories": ["国产剧","欧美剧","韩国剧",]},
