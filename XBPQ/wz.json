@@ -46,7 +46,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://wzyshi.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;ak",
+    "分类url":"https://wzyshi.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
     
     "分类":"电影$1#剧集$2#动漫$3#综艺$4",
     
