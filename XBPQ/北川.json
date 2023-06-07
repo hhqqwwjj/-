@@ -10,6 +10,6 @@
 
     "分类": "电影$1#剧集$2#综艺$3#动漫$4", 
 
-    "分类url": "https://www.bczhuiju.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}/"
+    "分类url": "https://www.bczhuiju.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}/;;mu0"
 
 }
