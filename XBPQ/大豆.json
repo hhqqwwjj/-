@@ -1,12 +1,12 @@
 {
-  "站名": "大豆影视",
-  "请求头": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G9860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.1 Chrome/110.0.5481.154 Mobile Safari/537.36",
-  "头部集合": "Cookie$ __51cke__=; ecPopup=1; Hm_lvt_deb29ef6f88d6506b21a37642f38176c=1686015157; __tins__21511459=%7B%22sid%22%3A%201686015156505%2C%20%22vd%22%3A%209%2C%20%22expires%22%3A%201686017027208%7D; __tins__21655929=%7B%22sid%22%3A%201686015156521%2C%20%22vd%22%3A%207%2C%20%22expires%22%3A%201686017027224%7D; __51laig__=16; Hm_lpvt_deb29ef6f88d6506b21a37642f38176c=1686015228",
-  "主页url": "https://www.dadou.pro/",
-  "首页": "电视剧$40",   
-  "分类": "电影&剧集&综艺&番剧",
-  "分类值": "1&2&3&4",
-  "分类url": "https://www.dadou.pro/api.php/app/video?tid={cateId}&class={class}&area={area}&lang=&year={year}&limit=18&pg={catePg}",
+"站名": "大豆影视",
+"请求头": "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G9860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/21.1 Chrome/110.0.5481.154 Mobile Safari/537.36",
+"头部集合": "Cookie$ __51cke__=; ecPopup=1; Hm_lvt_deb29ef6f88d6506b21a37642f38176c=1686015157; __tins__21511459=%7B%22sid%22%3A%201686015156505%2C%20%22vd%22%3A%209%2C%20%22expires%22%3A%201686017027208%7D; __tins__21655929=%7B%22sid%22%3A%201686015156521%2C%20%22vd%22%3A%207%2C%20%22expires%22%3A%201686017027224%7D; __51laig__=16; Hm_lpvt_deb29ef6f88d6506b21a37642f38176c=1686015228",
+"主页url": "https://www.dadou.pro/",
+"首页": "电视剧$40",   
+"分类": "电影&剧集&综艺&番剧",
+"分类值": "1&2&3&4",
+"分类url": "https://www.dadou.pro/api.php/app/video?tid={cateId}&class={class}&area={area}&lang=&year={year}&limit=18&pg={catePg}",
   
  "数组": "list[]", 
  "图片": "vod_pic", 
@@ -35,7 +35,7 @@
  "简介": "class=\"text cor3\">&&</div>",
   
  "线路数组": "fa ds-dianying\"></i>&&a>", 
- "线路标题": "nbsp;&&</", 
+ "线路标题": "nbsp;&&</+集", 
  
  "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 
