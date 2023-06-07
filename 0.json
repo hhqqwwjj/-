@@ -89,6 +89,8 @@
 
 {"key":"jojo","name":"🌶️JoJo┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/jojo.json"},
 
+{"key":"北川","name":"北川┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/北川.json"},
+
 {"key":"子子","name":"👼子子┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
 {"key":"轻简","name":"✂️简简┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
