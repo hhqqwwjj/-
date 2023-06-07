@@ -5,6 +5,8 @@
     "站名": "zxzj",
 
     "主页url": "https://www.zxzjhd.com/", 
+    
+    "播放数组":"<ul class=\"stui-content__playlist&&</ul>",
 
     "分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6", 
 
