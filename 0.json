@@ -292,7 +292,7 @@
 
 {"name":"解析0","type":1,"url":"https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
 
-{"name":"解析1","type":1,"url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=","flag": ["imgo", "mgtv", "芒果"]}, 
+{"name":"解析1","type":1,"url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="}, 
 
 {"name":"解析2","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
