@@ -79,6 +79,8 @@
 
 {"key":"新视觉","name":"👁️‍🗨️视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
+{"key":"大豆","name":"🎴大豆┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/大豆.json"},
+
 {"key":"追剧兔","name":"🐇追剧┃兔兔","type":3,"api":"csp_XBPQ","ext":"./XBPQ/追剧兔.json"},
 
 {"key":"臭蛋蛋","name":"🍳蛋蛋┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/臭蛋蛋.json"},
@@ -89,6 +91,8 @@
 
 {"key":"北川","name":"⛑️北川┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/北川.json"},
 
+{"key":"策驰","name":"🥏策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
+
 {"key":"子子","name":"👼子子┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
 {"key":"轻简","name":"✂️简简┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
@@ -96,8 +100,6 @@
 {"key":"初语","name":"💬初语┃采集","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/"},
 
 {"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
-
-{"key":"大豆","name":"🎴大豆┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
 
 {"key":"皮皮鸭","name":"👲皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
