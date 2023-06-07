@@ -63,21 +63,19 @@
 
 {"key":"聚合资源","name":"🔒聚合┃资源","type":3,"api":"csp_AppYsV2","ext":"http://xn--yeta099v.online:66/api.php/app/"},
 
-{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
-
-{"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
+{"key":"素白白","name":"💮白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
 
 {"key":"热播","name":"🌭热播┃之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/热播之家.js"},
 
-{"key":"素白白","name":"💮素白┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/素白白.json"},
+{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
+
+{"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
 
 {"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
 
 {"key":"爱看","name":"💘爱看┃影院","type":3,"api":"csp_XBPQ","ext":"./XBPQ/爱看影院.json"},
 
 {"key":"熊熊","name":"🐻笨蛋┃熊熊","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
-
-{"key":"新视觉","name":"👁️‍🗨️视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
 {"key":"大豆","name":"🎴大豆┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/大豆.json"},
 
@@ -87,11 +85,11 @@
 
 {"key":"独播库","name":"🦄独播┃库库","type":3,"api":"csp_XBPQ","ext":"./XBPQ/独播库.json"},
 
-{"key":"jojo","name":"🌶️JoJo┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/jojo.json"},
-
 {"key":"北川","name":"⛑️北川┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/北川.json"},
 
 {"key":"策驰","name":"🕊️策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
+
+{"key":"jojo","name":"🌶️JoJo┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/jojo.json"},
 
 {"key":"子子","name":"👼子子┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
@@ -104,6 +102,8 @@
 {"key":"皮皮鸭","name":"👲皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
+
+{"key":"TVB","name":"📭TVB┃资源","type":1,"api":"http://www.tvyb03.com/api.php/provide/vod/"},
 
 {"key":"非凡","name":"🕊️非凡┃资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/",
 "categories": ["国产剧","欧美剧","韩国剧",]},
@@ -170,6 +170,8 @@
 {"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"apple","name":"🍎腐烂┃苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"新视觉","name":"👁️‍🗨️视觉┃影视","type": 3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 
 {"key":"1010","name":"👾双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
