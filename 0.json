@@ -51,6 +51,8 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
+{"key":"大豆","name":"大豆┃港湾","type":3,"api":"csp_XYQHiker","ext":"./XYQH/大豆影视.json","jar":"./jar/xyq.jar"},
+
 {"key":"yinfans","name":"🎻范丝┃精选","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"ext":"./XPath/音范丝.json"},
 
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
