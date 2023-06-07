@@ -63,13 +63,13 @@
 
 {"key":"聚合资源","name":"🔒聚合┃资源","type":3,"api":"csp_AppYsV2","ext":"http://xn--yeta099v.online:66/api.php/app/"},
 
-{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
-
-{"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
+{"key":"素白白","name":"💮白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
 
 {"key":"热播","name":"🌭热播┃之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/热播之家.js"},
 
-{"key":"素白白","name":"💮素白┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/素白白.json"},
+{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
+
+{"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
 
 {"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
 
