@@ -69,7 +69,7 @@
 
 {"key":"热播","name":"🌭热播┃之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/热播之家.js"},
 
-{"key":"素白白","name":"💮素白┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/素白白.json"},
+{"key":"素白白","name":"💮素白┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/素白白.json"},
 
 {"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
 
