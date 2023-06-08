@@ -35,7 +35,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"😍豆瓣推荐┃禁止贩卖┃6.7更新┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"😍豆瓣推荐┃禁止贩卖┃6.8更新┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
@@ -70,6 +70,8 @@
 {"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
 {"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
+
+{"key":"魔力","name":"🎲魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
 
 {"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
 
