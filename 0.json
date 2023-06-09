@@ -108,7 +108,7 @@
 {"key":"初语","name":"💬初语┃采集","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/"},
 
 {"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/",
-"categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫"]},
+"categories": ["国产剧","港台剧","欧美剧","韩国剧","国产动漫","日本动漫"]},
 
 {"key":"暴风","name":"🌀暴风┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
