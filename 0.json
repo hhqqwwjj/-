@@ -41,7 +41,7 @@
 
 {"key":"直播转点播","name":"📺电视┃直播","type":3,"api":"./js/直播转点播.js","searchable":0,"quickSearch":0,"ext":"./json/直播仓.json"},
 
-{"key":"饭后","name":"🍛饭后┃官采","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"http://player.jiexi.plus/web/Player?url=","categories": ["国产剧", "港台剧", "欧美剧", "日韩剧"]},
+{"key":"饭后","name":"🍛饭后┃官采","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"http://player.jiexi.plus/web/Player?url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
 
 {"key":"在线","name":"🗒️在线┃之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 
