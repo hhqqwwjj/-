@@ -101,13 +101,14 @@
 
 {"key":"爱看","name":"💘爱看┃影院","type":3,"api":"csp_XBPQ","ext":"./XBPQ/爱看影院.json"},
 
-{"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
+{"key":"皮皮鸭","name":"👲皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
 {"key":"轻简","name":"✂️简简┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
 {"key":"初语","name":"💬初语┃采集","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/"},
 
-{"key":"皮皮鸭","name":"👲皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
+{"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/",
+"categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
 
 {"key":"暴风","name":"🌀暴风┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
