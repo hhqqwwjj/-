@@ -35,7 +35,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"♥️豆瓣推荐┃接口免费┃6.8更新┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"♥️豆瓣推荐┃接口免费┃6.9更新┃Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
@@ -320,25 +320,25 @@
 
 {"name":"解析0","type":1,"url":"https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
 
-{"name":"解析1","type":1,"url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="}, 
+{"name":"解析1","type":1,"url":"https://jf.icucloud.vip/api/jsonindex.php/?key=ahNCgSypVOi9W5aloR&url="},
 
-{"name":"解析2","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name":"解析2","type":1,"url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="}, 
 
-{"name":"解析3","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
+{"name":"解析3","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
-{"name":"解析4","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+{"name":"解析4","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
 
-{"name":"解析5","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
+{"name":"解析5","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 
-{"name":"解析6","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
+{"name":"解析6","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 
-{"name":"解析7","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
+{"name":"解析7","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
 
-{"name":"解析8","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url="},
+{"name":"解析8","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 
-{"name":"解析9","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
+{"name":"解析9","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url="},
 
-{"name":"解析10","type":1,"url":"https://jf.icucloud.vip/api/jsonindex.php/?key=ahNCgSypVOi9W5aloR&url="},
+{"name":"解析10","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 
 {"name":"嗅探1","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 
