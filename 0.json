@@ -236,6 +236,7 @@
 
 {"key":"思古","name":"🍑思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
 
+{"key":"王者","name":"🍑王者┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/王者影视.json"},
 
 
 
