@@ -338,6 +338,8 @@
 
 {"name":"解析9","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 
+{"name":"解析10","type":1,"url":"https://jf.icucloud.vip/api/jsonindex.php/?key=ahNCgSypVOi9W5aloR&url="},
+
 {"name":"嗅探1","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 
 {"name":"嗅探2","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
