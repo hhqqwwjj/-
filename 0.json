@@ -73,7 +73,7 @@
 
 {"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
-{"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
+{"key":"看看剧","name":"🎺看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json","jar":"./jar/小暴脾气2.jar"},
 
 {"key":"魔力","name":"🎲魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
 
