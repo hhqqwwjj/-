@@ -99,7 +99,7 @@
 
 {"key":"TVB","name":"📭TVB┃云播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/tvb.json"},
 
-{"key":"双十","name":"🦚双十┃影院","type":3,"api":"csp_XBPQ","ext":"./XBPQ/双十.json"},
+{"key":"双十","name":"🦚双十┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/双十电影.js"},
 
 {"key":"皮皮鸭","name":"👲皮皮┃鸭鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/城府.php?url="},
 
