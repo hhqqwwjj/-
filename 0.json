@@ -156,19 +156,19 @@
 "ext":"./XYQH/玩偶哥哥.json","jar":"./jar/xyq.jar"},
 
 {"key":"Gitcafe","name":"🍼阿里┃纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
+"jar":"./jar/xyq.jar"},
 
 {"key":"csp_AliPS","name":"🍼阿里┃盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
+"jar":"./jar/xyq.jar"},
 
 {"key":"csp_Yisou","name":"🍼阿里┃易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
+"jar":"./jar/xyq.jar"},
 
 {"key":"csp_Upyunso","name":"🍼阿里┃云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
+"jar":"./jar/xyq.jar"},
 
 {"key":"csp_Zhaozy","name":"🍼阿里┃资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
+"jar":"./jar/xyq.jar"},
 
 {"key": "橘子盘搜","name":"🍼橘子┃盘搜","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/橘子盘搜.json","jar":"./jar/xyq.jar"},
@@ -198,7 +198,7 @@
 "ext":"./XYQH/盘搜索.json","jar":"./jar/xyq.jar"},
 
 {"key":"push_agent","name":"🍸手机┃推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
+"jar":"./jar/xyq.jar"},
 
 
 
