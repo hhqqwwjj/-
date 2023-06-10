@@ -47,9 +47,9 @@
 
 {"key":"低端","name":"🔅低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
 
-{"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
+{"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/厂长.json"},
 
-{"key":"Libo","name":"👶Libo┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/libvio.json"},
+{"key":"Libo","name":"👶Libo┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/libvio.json"},
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
