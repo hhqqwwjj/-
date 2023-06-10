@@ -10,7 +10,7 @@
 				"副标题": "vod_version\":\"&&\"+vod_remarks\":\"&&\"",
 				"链接": "https://xy1080.cc/voddetail/+vod_id\":&&,+/",
 				"分类url": "https://xy1080.cc/vodshow/{cateId}-----------/",
-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+				"分类": "搜索看$1",
 				"搜索模式": "1",
 				"搜索url": "https://xy1080.cc/vodsearch/{wd}-------------/",
 				"搜索数组": "public-list-exp\"&&thumb-else cor5 hide\"",
