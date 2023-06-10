@@ -99,7 +99,7 @@
 
 {"key":"TVB","name":"📭TVB┃云播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/tvb.json"},
 
-{"key":"爱看","name":"💘爱看┃影院","type":3,"api":"csp_XBPQ","ext":"./XBPQ/爱看影院.json"},
+{"key":"双十","name":"🦚双十┃影院","type":3,"api":"csp_XBPQ","ext":"./XBPQ/双十.json"},
 
 {"key":"皮皮鸭","name":"👲皮皮┃鸭鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/城府.php?url="},
 
@@ -221,6 +221,8 @@
 {"key":"奇优","name":"🍑奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优.json"},
 
 {"key":"vidh","name":"🍑Vidh┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
+
+{"key":"爱看","name":"🍑爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱看影院.json"},
 
 {"key":"思古","name":"🍑思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
 
