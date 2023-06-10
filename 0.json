@@ -216,13 +216,9 @@
 
 {"key":"大米","name":"🍑大米┃星球","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/大米.json"},
 
-{"key":"free","name":"🍑Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
-
 {"key":"奇优","name":"🍑奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优.json"},
 
 {"key":"vidh","name":"🍑Vidh┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
-
-{"key":"vofx","name":"🍑Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflix.json"},
 
 {"key":"思古","name":"🍑思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
 
