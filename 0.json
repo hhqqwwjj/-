@@ -77,6 +77,8 @@
 
 {"key":"新视觉","name":"👁️‍🗨️视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
+{"key":"2bt","name":"✌BTT┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
+
 {"key":"魔力","name":"🎲魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
 
 {"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
@@ -206,13 +208,7 @@
 
 //精选
 
-{"key":"2bt","name":"✌BTT┃影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"apple","name":"🍎苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"七七","name":"👂七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
-
-{"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/农民.json"},
 
 {"key":"快看影视","name":"👀快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
