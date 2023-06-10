@@ -261,9 +261,9 @@
 
 //动漫
 
-{"key":"动漫巴士","name":"🚕动漫┃巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/动漫巴士.json"},
+{"key":"动漫巴士","name":"🚕动漫┃巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/巴士.json"},
 
-{"key":"维奇","name":"🛷维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/维奇动漫.json"},
+{"key":"维奇","name":"🛷维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/维奇.json"},
 
 {"key":"路漫漫","name":"🚶漫漫┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/路漫漫.js"},
 
