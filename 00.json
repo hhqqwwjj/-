@@ -140,13 +140,13 @@
 
 //阿里
 
-{"key":"玩偶","name":"🎨玩偶┃GO","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"玩偶","name":"🎨玩偶┃G O","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$http://tvfan.xxooo.cf/","jar":"./jar/pg.jar"},
 
-{"key":"找资源","name":"🌞资源┃GO","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
+{"key":"找资源","name":"🌞资源┃G O","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx","jar":"./jar/pg.jar"},
 
-{"key":"易搜","name":"🌞易搜┃GO","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"易搜","name":"🌞易搜┃G O","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/pg.jar"},
 
 {"key":"玩偶哥哥","name":"🍼玩偶┃哥哥","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
@@ -207,6 +207,8 @@
 {"key":"快看影视","name":"👀快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"77","name":"🔱七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/xyq.jar"},
+
+{"key":"农民","name":"👨‍🌾农民┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 
 
 
