@@ -101,6 +101,12 @@
 
 {"key":"双十","name":"🔮双十┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/双十电影.js"},
 
+{"key":"cokemv","name":"cokemv┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
+
+{"key":"voflix","name":"voflix┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/voflix.js"},
+
+{"key":"freeok","name":"freeok┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/freeok.js"},
+
 {"key":"皮皮鸭","name":"👲皮皮┃鸭鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/城府.php?url="},
 
 {"key":"轻简","name":"✂️简简┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
