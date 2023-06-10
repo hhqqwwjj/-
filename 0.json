@@ -260,11 +260,7 @@
 
 //直播==
 
-{"key":"腾讯体育","name":"🐧腾讯┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/txty.json"},
-
 {"key":"88看球","name":"🏀八八┃看球","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/88kq.js"},
-
-{"key":"JRS","name":"🏐JRS┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/jrs直播.json"},
 
 {"key":"310直播","name":"⚽310┃直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/310.js"},
 
@@ -274,7 +270,6 @@
 
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/blzb.js"},
 
-{"key":"csp_Yj1211","name":"💿直播┃集合","type": 3,"api": "csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0},
 
 
 
