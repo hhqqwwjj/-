@@ -284,7 +284,7 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"打死你个大笨蛋","type":1,"url":"http://xhww.fun:63/黄金甲.php?url=","User-Agent":"okhttp/3.12.0"},
+{"name":"打死你个大笨蛋","type":1,"url":"http://xhww.fun:63/城府.php?url=","User-Agent":"okhttp/3.12.0"},
 
 {"name":"解析0","type":1,"url":"https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
 
