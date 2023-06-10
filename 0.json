@@ -41,6 +41,10 @@
 
 {"key":"饭后","name":"🍛饭后┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"http://player.jiexi.plus/web/Player?url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
 
+{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
+
+{"key":"布雷","name":"⚡布雷┃蓝光","type":3,"api":"csp_XYQHiker","ext":"./XYQH/布雷.json","jar":"./jar/xyq.jar"},
+
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
 {"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
@@ -55,13 +59,11 @@
 
 {"key":"低端","name":"🔅低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
 
+{"key":"素白白","name":"💮白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
+
 {"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/厂长.json"},
 
 {"key":"Libo","name":"👶Libo┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/libvio.json"},
-
-{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
-
-{"key":"素白白","name":"💮白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
 
 {"key":"热播","name":"🌭热播┃之家","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热播之家.json"},
 
@@ -91,8 +93,6 @@
 
 {"key":"策驰","name":"🕊️策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
 
-{"key":"jojo","name":"🌶️JoJo┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/jojo.json"},
-
 {"key":"子子","name":"👼子子┃影视","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
 {"key":"TVB","name":"📭TVB┃云播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/tvb.json"},
@@ -100,8 +100,6 @@
 {"key":"双十","name":"🔮双十┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/双十电影.js"},
 
 {"key":"cokemv","name":"🚡COK┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
-
-{"key":"布雷","name":"⚡布雷┃蓝光","type":3,"api":"csp_XYQHiker","ext":"./XYQH/布雷.json","jar":"./jar/xyq.jar"},
 
 {"key":"皮皮鸭","name":"👲皮皮┃鸭鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/城府.php?url="},
 
@@ -120,7 +118,6 @@
 
 {"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
-
 
 
 
@@ -202,8 +199,6 @@
 
 
 
-
-
 //精选
 
 {"key":"LiteApple","name":"🍎苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
@@ -212,7 +207,6 @@
 {"key":"快看影视","name":"👀快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"77","name":"🔱七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/xyq.jar"},
-
 
 
 
@@ -234,8 +228,6 @@
 
 
 
-
-
 //直播==
 
 {"key":"88看球","name":"🏀八八┃看球","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/88kq.js"},
@@ -250,8 +242,6 @@
 
 
 
-
-
 //杂杂杂
 
 {"key":"音悦台","name":"🎵音悦┃台哦","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/音悦台.js"},
@@ -259,7 +249,6 @@
 {"key":"喜马拉雅","name":"🐴喜马┃拉雅","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/喜马拉雅.js"},
 
 {"key":"酷狗mv","name":"🐶酷狗┃MV","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/酷狗mv.js"},
-
 
 
 
