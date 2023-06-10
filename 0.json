@@ -156,7 +156,7 @@
 {"key":"玩偶哥哥","name":"🍼玩偶┃哥哥","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/玩偶哥哥.json","jar":"./jar/xyq.jar"},
 
-{"key":"Gitcafe","name":"🍼小小┃纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"Gitcafe","name":"🍼阿里┃纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./alitoken.txt","jar":"./jar/xyq.jar"},
 
 {"key":"csp_AliPS","name":"🍼阿里┃盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
