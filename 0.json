@@ -103,7 +103,7 @@
 
 {"key":"cokemv","name":"🚡COK┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 
-{"key":"酷客","name":"酷客┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客影院.js"},
+{"key":"布雷","name":"布雷┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/布雷蓝光.js"},
 
 {"key":"皮皮鸭","name":"👲皮皮┃鸭鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/城府.php?url="},
 
