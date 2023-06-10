@@ -228,9 +228,6 @@
 
 {"key":"王者","name":"🍑王者┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/王者影视.json"},
 
-{"key":"乐猪","name":"🍑乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
-
-{"key":"农民","name":"🍑农民┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/农民.json"},
 
 
 
