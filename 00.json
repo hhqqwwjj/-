@@ -57,7 +57,7 @@
 
 {"key":"七七","name":"😠七七┃APP","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
 
-{"key":"在线","name":"🗒️在线┃之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/在线之家.js"},
+{"key":"在线","name":"🗒️在线┃之家","type":3,"api":"csp_XBPQ","ext":"./XBPQ/在线之家.json"},
 
 {"key":"低端","name":"🔅低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
 
@@ -75,6 +75,8 @@
 
 {"key":"2bt","name":"✌BTT┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
 
+{"key":"城市电影","name":"🏙️城市┃电影","type":3,"api":"csp_XBPQ","ext":"./XBPQ/城市电影.json"},
+
 {"key":"圣城","name":"🏝️圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
 
 {"key":"魔力","name":"🎲魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
@@ -85,11 +87,15 @@
 
 {"key":"大豆","name":"🎴大豆┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/大豆.json"},
 
+{"key":"咔咪","name":"🙀咔咪┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/咔咪.json"},
+
 {"key":"星影","name":"⭐星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
 
 {"key":"王者","name":"👑王者┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
 {"key":"追剧兔","name":"🐇兔兔┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/追剧兔.json"},
+
+{"key":"freeok","name":"⛄Free┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/freeok.json"},
 
 {"key":"臭蛋蛋","name":"🍳蛋蛋┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/臭蛋蛋.json"},
 
@@ -107,7 +113,7 @@
 
 {"key":"cokemv","name":"🚡COK┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 
-{"key":"皮皮鸭","name":"👲皮皮┃鸭鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/城府.php?url="},
+{"key":"皮皮鸭","name":"👲皮皮┃鸭鸭","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/乌鸦.php?url="},
 
 {"key":"轻简","name":"✂️简简┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
