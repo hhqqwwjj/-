@@ -59,8 +59,6 @@
 
 {"key":"在线","name":"🗒️在线┃之家","type":3,"api":"csp_XBPQ","ext":"./XBPQ/在线之家.json"},
 
-{"key":"3131","name":"3131┃之家","type":3,"api":"csp_XBPQ","ext":"./XBPQ/城市电影.json"},
-
 {"key":"低端","name":"🔅低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
 
 {"key":"素白白","name":"💮白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
@@ -76,6 +74,8 @@
 {"key":"新视觉","name":"👁️‍🗨️视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
 {"key":"2bt","name":"✌BTT┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
+
+{"key":"城市电影","name":"🏙️城市┃电影","type":3,"api":"csp_XBPQ","ext":"./XBPQ/城市电影.json"},
 
 {"key":"圣城","name":"🏝️圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
 
