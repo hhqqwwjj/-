@@ -63,6 +63,8 @@
 
 {"key":"素白白","name":"💮白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
 
+{"key":"咔咪","name":"咔咪┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/咔咪.json"},
+
 {"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/厂长.json"},
 
 {"key":"Libo","name":"👶Libo┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/libvio.json"},
