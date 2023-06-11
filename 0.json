@@ -212,7 +212,7 @@
 
 {"key":"77","name":"🔱七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/xyq.jar"},
 
-{"key":"农民","name":"👨‍🌾农民┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
+{"key":"农民","name":"🌾农民┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 
 
 
