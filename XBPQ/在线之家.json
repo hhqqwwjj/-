@@ -3,7 +3,7 @@
 	"搜索url": "https://www.zxzjhd.com/vodsearch/-------------.html?wd={wd}&submit=",
 	"播放列表": "<a&&/a>",
 	"播放标题": ">&&<",
-    "播放数组":"stui-content__playlist sort-list maxheight clearfix&&</ul>",
+    "播放数组":"stui-content__playlist clearfix&&</ul>",
 
 	"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6",
 	"分类url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html"
