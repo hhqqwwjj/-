@@ -10,7 +10,7 @@
     "副标题": "vod_version\":\"&&\"+vod_remarks\":\"&&\"",
     "链接": "https://kami.mobi/voddetail/+vod_id\":&&,+/",
     "分类url": "https://kami.mobi/vodshow/{cateId}-----------/",
-    "分类": "电影$1#剧集$2#动漫$3",
+    "分类": "1$1",
     "搜索模式": "1",
     "搜索url": "https://kami.mobi/vodsearch/{wd}-------------/",
     "搜索数组": "public-list-exp\"&&thumb-else cor5 hide\"",
