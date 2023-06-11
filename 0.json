@@ -43,8 +43,6 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"布雷","name":"⚡布雷┃蓝光","type":3,"api":"csp_XYQHiker","ext":"./XYQH/布雷.json","jar":"./jar/xyq.jar"},
-
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
 {"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
