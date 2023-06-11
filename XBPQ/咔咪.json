@@ -24,7 +24,6 @@
     "播放数组": "anthology-list-play size&&</ul>",
     "搜索副标题": "class=\"public-list-prb hide ft2\">&&</span",
     "播放链接前缀": "https://kami.mobi/",
-    "简介": "</a>&&<div class=\"text-open",
-    "线路数组": "😍+class=\"swiper-slide&&/a>",
+    "线路数组": "class=\"swiper-slide&&/a>",
     "线路标题": "</i>&&<"
 }
