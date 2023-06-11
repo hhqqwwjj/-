@@ -43,8 +43,6 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"布雷","name":"⚡布雷┃蓝光","type":3,"api":"csp_XYQHiker","ext":"./XYQH/布雷.json","jar":"./jar/xyq.jar"},
-
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
 {"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
@@ -53,7 +51,9 @@
 
 {"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key":"聚合资源","name":"🔒聚合┃资源","type":3,"api":"csp_AppYsV2","ext":"http://xn--yeta099v.online:66/api.php/app/"},
+{"key":"聚合蓝光","name":"🔒聚合┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://xn--yeta099v.online:66/api.php/app/"},
+
+{"key":"七七","name":"😠七七┃APP","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
 
 {"key":"在线","name":"🗒️在线┃之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/在线之家.js"},
 
@@ -73,6 +73,8 @@
 
 {"key":"2bt","name":"✌BTT┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
 
+{"key":"圣城","name":"🏝️圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
+
 {"key":"魔力","name":"🎲魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
 
 {"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
@@ -82,6 +84,8 @@
 {"key":"大豆","name":"🎴大豆┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/大豆.json"},
 
 {"key":"星影","name":"⭐星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
+
+{"key":"王者","name":"👑王者┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
 {"key":"追剧兔","name":"🐇兔兔┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/追剧兔.json"},
 
@@ -141,7 +145,7 @@
 //阿里
 
 {"key":"玩偶","name":"🎨玩偶┃G  O","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$http://tvfan.xxooo.cf/","jar":"./jar/pg.jar"},
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$https://wogg.xyz/","jar":"./jar/pg.jar"},
 
 {"key":"找资源","name":"🌞资源┃G  O","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx","jar":"./jar/pg.jar"},
@@ -208,7 +212,7 @@
 
 {"key":"77","name":"🔱七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/xyq.jar"},
 
-{"key":"农民","name":"👨‍🌾农民┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
+{"key":"农民","name":"🌾农民┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 
 
 
