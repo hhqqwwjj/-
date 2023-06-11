@@ -1,6 +1,6 @@
 {
 	"主页url": "https://www.zxzjhd.com/",
 	"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6",
-	"分类url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}E---{class}----{catePg}---{year}.html"
+	"分类url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}---{class}----{catePg}---{year}.html"
 
 }
