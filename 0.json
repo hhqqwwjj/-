@@ -53,6 +53,8 @@
 
 {"key":"聚合蓝光","name":"🔒聚合┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://xn--yeta099v.online:66/api.php/app/"},
 
+{"key":"飞云","name":"🚁飞云┃资源","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},     
+
 {"key":"七七","name":"😠七七┃APP","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
 
 {"key":"在线","name":"🗒️在线┃之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/在线之家.js"},
