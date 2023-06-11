@@ -103,6 +103,8 @@
 
 {"key":"TVB","name":"📭TVB┃云播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/tvb.json"},
 
+{"key":"酷茶","name":"🍵酷茶┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/tvb.json"},
+
 {"key":"双十","name":"🔮双十┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/双十电影.js"},
 
 {"key":"cokemv","name":"🚡COK┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
