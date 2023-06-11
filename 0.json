@@ -85,6 +85,8 @@
 
 {"key":"星影","name":"⭐星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
 
+{"key":"王者","name":"🤴王者┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
+
 {"key":"追剧兔","name":"🐇兔兔┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/追剧兔.json"},
 
 {"key":"臭蛋蛋","name":"🍳蛋蛋┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/臭蛋蛋.json"},
